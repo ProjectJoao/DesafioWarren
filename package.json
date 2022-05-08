@@ -1,0 +1,11 @@
+{
+  "name": "desafiowarren",
+  "version": "1.0.0",
+  "description": "Projeto Desafio Warren",
+  "main": "Desafio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Henrique dos Santos",
+  "license": "ISC"
+}
